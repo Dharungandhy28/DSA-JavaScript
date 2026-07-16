@@ -8,8 +8,13 @@ This repository contains my structured DSA learning journey using JavaScript. It
 
 ## Repository Structure
 
+<!--
 - week-1 : DSA basics, algorithm analysis, asymptotic notation
-- week-2 : Recursion, Arrays, Searching
+- week-2 : Recursion, Arrays, Searching -->
+
+## Repository Structure
+
+- [Week 1 - DSA Foundations](./week%201/README.md)
 
 ## Progress
 
