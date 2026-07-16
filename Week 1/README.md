@@ -12,12 +12,12 @@
 
 ## Files
 
-| File                                        | Description                 |
-| ------------------------------------------- | --------------------------- |
-| [dsaintro.md](./dsaintro.md)                | Introduction to DSA         |
-| [analysisofalgo.md](./analysisofalgo.md.md) | Algorithm analysis concepts |
-| [ordergrowth.md](./ordergrowth.md.md)       | Order of growth notes       |
-| [sumofnatural.js](./sumofnatural.js.js)     | Example implementation      |
+| File                               | Description                 |
+| ---------------------------------- | --------------------------- |
+| [dsaintro.md](./dsaintro.md)       | Introduction to DSA         |
+| [analysis.md](./analysis.md)       | Algorithm analysis concepts |
+| [growthorder.md](./growthorder.md) | Order of growth notes       |
+| [Naturalnum.js](./Naturalnum.js)   | Example implementation      |
 
 ## Key Learnings
 
