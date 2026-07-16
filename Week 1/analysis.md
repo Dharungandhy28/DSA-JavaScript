@@ -1,41 +1,53 @@
 # Analysis of Algorithms
 
-## key Idea
+## Key Idea
 
-A single problem can have multiple solutions, and each solution may have a different time complexity.
+A single problem can have multiple solutions, and each solution may have a different time complexity. Algorithm analysis helps compare solutions based on the amount of time and memory they require.
 
-<hr />
+## Example: Sum of the First n Natural Numbers
 
-## Example: Sum of first n natural numbers
+**Input:** n = 3  
+**Output:** 6
 
-<b>Input:</b> n=3
+### Solution 1: Formula-Based Approach
 
-<b>Output:</b> 6
+```js
+(n * (n + 1)) / 2;
+```
 
-### Solution 1
+**Time Complexity:** O(1)  
+**Reason:** Uses a constant number of operations regardless of the value of `n`.
 
-n\*(n+1)/2
-Time Complexity: O(1)
+### Solution 2: Iterative Addition
 
-<hr />
+```js
+1 + 2 + 3;
+```
 
-### Solution 2
+**Time Complexity:** O(n)  
+**Reason:** The number of additions increases linearly with `n`.
 
-1+2+3
-Time Complexity: O(n)
+### Solution 3: Repeated Addition
 
-<hr />
+Repeatedly adding `1` multiple times to construct each number.
 
-### Solution 3
+**Time Complexity:** Greater than O(n)  
+**Reason:** Requires additional repeated operations, making it less efficient than the linear approach.
 
-Repeated Addition
-Time Complexity: Higher then O(n)
+## Key Observation
 
-<hr />
+- Solution 1 is the most efficient because it runs in constant time.
+- Solution 2 is less efficient because it performs `n` additions.
+- Solution 3 is the least efficient among the three approaches.
 
-## Other topics covered
+## Additional Concepts Covered
 
-- Order of growth
-- Linear function
-- Quadratic function
-- Comparing Growth rates
+- Order of Growth
+- Linear Functions
+- Quadratic Functions
+- Comparing Growth Rates
+- Choosing the Most Efficient Algorithm
+
+## Conclusion
+
+Algorithm analysis helps determine which solution is more efficient. For large input sizes, even small differences in time complexity can significantly affect performance.

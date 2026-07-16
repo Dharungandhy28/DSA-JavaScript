@@ -1,26 +1,29 @@
-# DSA - What, why and How
+# DSA – What, Why, and How
 
 ## Why is DSA Important?
 
-- Improves problem-solving ability
-- Helps write efficient code
-- Required for technical interviews
+- Improves problem-solving skills
+- Helps write efficient and optimized code
+- Essential for technical interviews
+- Improves understanding of program performance
 
-<hr />
-
-## Why learn DSA?
+## Why Learn DSA?
 
 - Optimize time and memory usage
-- Understand how data is organized
-- Prepare for Software Engineer Interviews
+- Understand how data is organized and processed
+- Build strong logical thinking abilities
+- Prepare for software engineering interviews
 
-<hr />
+## Learning Roadmap
 
-## Roadmap
+1. Learn a programming language (JavaScript)
+2. Understand basic DSA concepts
+3. Implement fundamental data structures and algorithms
+4. Learn built-in language libraries and utilities
+5. Practice problem-solving regularly
 
-- Learn programming language
-- Learn basics of DSA and implement
-- Learn Language Library that have DSA implemented
+## Core Topics
+
 - Arrays
 - Strings
 - Hash Maps
@@ -29,3 +32,7 @@
 - Queues
 - Trees
 - Graphs
+
+## Goal
+
+Build strong DSA fundamentals to improve problem-solving ability and perform well in software engineering interviews.

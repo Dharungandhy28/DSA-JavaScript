@@ -1,65 +1,101 @@
-# Order of growth
+# Order of Growth
 
 ## Key Idea
 
-- In multiple solutions we need to find out which one is good so that we find out time taken by all the solutions.
-- we write a polynomial and see order or growth of every time taken and which order is having the least order of growth we say that is <b>efficient</b>
+When a problem has multiple solutions, we compare the time taken by each solution to determine which one is more efficient. Instead of focusing on exact execution time, we analyze how the running time grows as the input size (`n`) increases.
 
-### Order of Growth
+The algorithm with the **smaller order of growth** is generally considered more efficient for large inputs.
 
-A function f(n) is said to be growing faster then g(n) if
+## Definition
 
-lim g(n)
+A function `f(n)` is said to grow faster than `g(n)` if:
 
-    _____ = 0
+```
+          g(n)
+lim ---------------- = 0
+n → ∞    f(n)
+```
 
-n->∞ f(n)
-
-<hr />
+This means that as `n` becomes very large, `f(n)` dominates `g(n)`.
 
 ## Linear Function
 
-A linear function in JS calculate the value of a function following a straight line equation
+A linear function grows proportionally with the input size.
 
-(y = mx+b)
+```
+y = mx + b
+```
 
-<hr />
+**Order of Growth:** `O(n)`
 
 ## Quadratic Function
 
-A quadratic function in JS calculates the value of a function following a second-degree.
+A quadratic function contains a squared term and grows faster than a linear function.
 
-polynomial equation (y = ax² + bx +c)
+```
+y = ax² + bx + c
+```
 
-### Direct way to find to find and compare growth
+**Order of Growth:** `O(n²)`
 
-- Ignore lower order terms
-- Ignore leading terms
+## Direct Method to Compare Growth
 
-### Example
+To find the order of growth quickly:
 
-f(n) = 2n² + n + 6 order of growth : n² (quadratic)
+1. Ignore constant terms.
+2. Ignore lower-order terms.
+3. Keep only the highest-order term.
 
-g(n) = 100n + 3 order of growth: n(linear)
+## Example
 
-Direct way to do
+```
+f(n) = 2n² + n + 6
+```
 
-- Example 1
+Order of growth: `n²` → Quadratic
 
+```
+g(n) = 100n + 3
+```
+
+Order of growth: `n` → Linear
+
+Since `n²` grows faster than `n`, `f(n)` is less efficient for large inputs.
+
+## Example 1
+
+```
 f(n) = c1 log n + c2
 g(n) = c3 n + c4 log log n + c5
+```
 
-order of growth of f(n) is : log n
-order of growth of g(n) is : n
+Order of growth of `f(n)`: `log n`  
+Order of growth of `g(n)`: `n`
 
-Here higher order of growth is g(n) -> Bad algorithm
+Since `n` grows faster than `log n`, `g(n)` has a higher order of growth and is less efficient.
 
-- Example 2
+## Example 2
 
+```
 f(n) = c1 n² + c2 n + c3
-g(n) = c4 nlogn + c5n + c6
+g(n) = c4 n log n + c5 n + c6
+```
 
-order of growth of f(n) is : n
-order of growth of g(n) is : log n
+Order of growth of `f(n)`: `n²`  
+Order of growth of `g(n)`: `n log n`
 
-Here higher order of growth is f(n) -> Bad algorithm
+Since `n²` grows faster than `n log n`, `f(n)` has a higher order of growth and is less efficient.
+
+## Key Observation
+
+For large input sizes, the following growth order is commonly observed:
+
+```
+log n < n < n log n < n² < n³
+```
+
+An algorithm with a lower growth rate is generally preferred because its running time increases more slowly as the input size increases.
+
+## Conclusion
+
+Order of growth helps compare algorithms independently of hardware speed or programming language. By focusing on the highest-order term, we can quickly identify which algorithm scales better for large inputs.
