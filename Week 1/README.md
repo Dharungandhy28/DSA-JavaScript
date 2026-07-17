@@ -18,7 +18,7 @@
 | [growthorder.md](./growthorder.md)                   | Order of growth notes                                           |
 | [AsymptoticAnalysis.md](./AsymptoticAnalysis.md)     | Intorduction to Asymptotic Analysis                             |
 | [Naturalnum.js](./Naturalnum.js)                     | Sum of the first _n_ natural numbers using different approaches |
-| [BestAverageWorstCase.js](./BestAverageWorstCase.js) | Examples demonstrating best, average, and worst-case analysis   |
+| [BestAverageWorstcase.js](./BestAverageWorstcase.js) | Examples demonstrating best, average, and worst-case analysis   |
 
 ## Key Learnings
 
