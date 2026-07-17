@@ -6,24 +6,27 @@
 - Why learn DSA?
 - Algorithm Analysis
 - Order of Growth
-- Big-O Notation
-- Big-Omega Notation
-- Big-Theta Notation
+- Asymptotic Analysis
+- Best, Average, and Worst case Analysis
 
 ## Files
 
-| File                               | Description                 |
-| ---------------------------------- | --------------------------- |
-| [dsaintro.md](./dsaintro.md)       | Introduction to DSA         |
-| [analysis.md](./analysis.md)       | Algorithm analysis concepts |
-| [growthorder.md](./growthorder.md) | Order of growth notes       |
-| [Naturalnum.js](./Naturalnum.js)   | Example implementation      |
+| File                                                 | Description                                                     |
+| ---------------------------------------------------- | --------------------------------------------------------------- |
+| [dsaintro.md](./dsaintro.md)                         | Introduction to DSA                                             |
+| [analysis.md](./analysis.md)                         | Algorithm analysis concepts                                     |
+| [growthorder.md](./growthorder.md)                   | Order of growth notes                                           |
+| [AsymptoticAnalysis.md](./AsymptoticAnalysis.md)     | Intorduction to Asymptotic Analysis                             |
+| [Naturalnum.js](./Naturalnum.js)                     | Sum of the first _n_ natural numbers using different approaches |
+| [BestAverageWorstcase.js](./BestAverageWorstcase.js) | Examples demonstrating best, average, and worst-case analysis   |
 
 ## Key Learnings
 
 - Multiple solutions can exist for the same problem.
 - Time complexity helps compare algorithm efficiency.
 - Constant time operations are generally faster than linear time operations.
+- Introduction to asymptotic analysis
+- Difference between best, average, and worst-case complexity
 
 ## Status
 
