@@ -23,6 +23,8 @@ This repository contains my structured DSA learning journey using JavaScript. It
 - Algorithm Analysis
 - Order of Growth
 - Sum of n natural numbers
+- Asymptotic Analysis
+- Best, Average, Worst case Analysis
 
 ## Goal
 
