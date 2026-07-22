@@ -38,6 +38,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - Best, Average, and Worst Case Analysis
 - Asymptotic Notations
 - Big O Notations
+- Big Omega Notation
 
 ---
 
@@ -53,7 +54,7 @@ A structured repository documenting my journey of learning **Data Structures and
 
 ## 🚀 Current Focus
 
-- Big Omega Notation
+- Big Theta Notation
 
 ---
 
@@ -66,7 +67,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - ✅ Order of Growth
 - ✅ Asymptotic Analysis
 - ✅ Big O Notation
-- ⏳ Big Omega Notation
+- ✅ Big Omega Notation
 - ⏳ Big Theta Notation
 - ⏳ Loop Analysis
 - ⏳ Recursion
