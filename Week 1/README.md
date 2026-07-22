@@ -10,6 +10,7 @@
 - Best, Average, and Worst case Analysis
 - Asymptotic Notations
 - Big O Notation
+- Big Omega Notation
 
 ## Files
 
@@ -24,6 +25,8 @@
 | [asymptoticnotation.md](./asymptoticnotation.md)     | Introduction to Asymptotic Notations                            |
 | [BigONotation.md](./BigONotation.md)                 | Introduction to Big O Notation                                  |
 | [BigONotation.js](./BigONotation.js)                 | JavaScript examples demonstrating common Big O complexities     |
+| [BigOmegaNotation.md](./BigOmegaNotation.md)         | Introduction to Big Omega Notation                              |
+| [BigOmegaNotation.js](./BigOmegaNotation.js)         | JavaScript examples demonstrating Big Omega Notation            |
 
 ## Key Learnings
 
@@ -34,7 +37,8 @@
 - Difference between best, average, and worst-case complexity
 - Purpose of asymptotic notations in algorithm analysis
 - Understanding the fundamentals of Big O notation
-- How Big O represents the upper bound of algorithm complexity
+- Understanding the fundamentals of Big Omega notation
+- Difference between the upper bound (Big O) and lower bound (Big Omega) of algorithm complexity.
 
 ## Status
 
@@ -45,4 +49,5 @@
 - ✅ Best, Average, and Worst Case Analysis
 - ✅ Asymptotic Notations
 - ✅ Big O Notation
-- ⏳ Big Omege Notation (Next)
+- ✅ Big Omege Notation
+- ⏳ Big Theta Notation (Next)
