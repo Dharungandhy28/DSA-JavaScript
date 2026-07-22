@@ -9,6 +9,7 @@
 - Asymptotic Analysis
 - Best, Average, and Worst case Analysis
 - Asymptotic Notations
+- Big O Notation
 
 ## Files
 
@@ -21,6 +22,8 @@
 | [Naturalnum.js](./Naturalnum.js)                     | Sum of the first _n_ natural numbers using different approaches |
 | [BestAverageWorstcase.js](./BestAverageWorstcase.js) | Examples demonstrating best, average, and worst-case analysis   |
 | [asymptoticnotation.md](./asymptoticnotation.md)     | Introduction to Asymptotic Notations                            |
+| [BigONotation.md](./BigONotation.md)                 | Introduction to Big O Notation                                  |
+| [BigONotation.js](./BigONotation.js)                 | JavaScript examples demonstrating common Big O complexities     |
 
 ## Key Learnings
 
@@ -30,7 +33,8 @@
 - Introduction to asymptotic analysis
 - Difference between best, average, and worst-case complexity
 - Purpose of asymptotic notations in algorithm analysis
-- Introduction to Big O, Big Omega, and Big Theta notations
+- Understanding the fundamentals of Big O notation
+- How Big O represents the upper bound of algorithm complexity
 
 ## Status
 
@@ -40,4 +44,5 @@
 - ✅ Asymptotic Analysis
 - ✅ Best, Average, and Worst Case Analysis
 - ✅ Asymptotic Notations
-- ⏳ Big O Notation (Next)
+- ✅ Big O Notation
+- ⏳ Big Omege Notation (Next)

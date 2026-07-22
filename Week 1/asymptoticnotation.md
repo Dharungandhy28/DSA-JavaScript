@@ -6,8 +6,6 @@ Asymptotic notations are mathematical tools used to describe the growth rate of 
 
 Instead of measuring the exact execution time, asymptotic notations focus on how an algorithm scales with increase input size. This allows developers to compare algorithms independentely of hardware, operating systems, programming languages, or implementation details.
 
----
-
 ## Why Do We Need Asymptotic Notations?
 
 Asymptotic notations help us:
@@ -18,8 +16,6 @@ Asymptotic notations help us:
 - Understand algorithm scalability
 - Estimate time and space complexity for large inputs
 
----
-
 ## Types of Asymptotic Notations
 
 There are three primary asymptotic notations:
@@ -27,8 +23,6 @@ There are three primary asymptotic notations:
 1. Big O Notation (O)
 2. Big Omega Notation (Ω)
 3. Big Theta Notation (Θ)
-
----
 
 ## Conclusion
 
