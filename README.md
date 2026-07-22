@@ -37,6 +37,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - Asymptotic Analysis
 - Best, Average, and Worst Case Analysis
 - Asymptotic Notations
+- Big O Notations
 
 ---
 
@@ -52,4 +53,27 @@ A structured repository documenting my journey of learning **Data Structures and
 
 ## 🚀 Current Focus
 
-- Big O Notation
+- Big Omega Notation
+
+---
+
+## 🗺️ Learning Roadmap
+
+### Week 1
+
+- ✅ DSA Fundamentals
+- ✅ Algorithm Analysis
+- ✅ Order of Growth
+- ✅ Asymptotic Analysis
+- ✅ Big O Notation
+- ⏳ Big Omega Notation
+- ⏳ Big Theta Notation
+- ⏳ Loop Analysis
+- ⏳ Recursion
+- ⏳ Space Complexity
+
+---
+
+## 🤝 Contributions
+
+This repository is maintained as part of my personal learning journey. Suggestions, improvements, and constructive feedback are always welcome.
