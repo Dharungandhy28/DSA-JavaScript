@@ -55,7 +55,13 @@ A structured repository documenting my journey of learning **Data Structures and
 
 ## 🚀 Current Focus
 
-- Analysis of Common Loop
+Completing the remaining **Week 1 – Analysis of Algorithms** topics:
+
+- ⏳ Loop Analysis
+- ⏳ Recursion Analysis
+- ⏳ Recursion Tree Method
+- ⏳ Recurrence Relations
+- ⏳ Space Complexity
 
 ---
 
@@ -71,7 +77,9 @@ A structured repository documenting my journey of learning **Data Structures and
 - ✅ Big Omega Notation
 - ✅ Big Theta Notation
 - ⏳ Loop Analysis
-- ⏳ Recursion
+- ⏳ Recursion Analysis
+- ⏳ Recursion Tree Method
+- ⏳ Recurrence Relations
 - ⏳ Space Complexity
 
 ---
@@ -79,3 +87,14 @@ A structured repository documenting my journey of learning **Data Structures and
 ## 🤝 Contributions
 
 This repository is maintained as part of my personal learning journey. Suggestions, improvements, and constructive feedback are always welcome.
+
+---
+
+## 📊 Repository Highlights
+
+- 📖 Well-structured Markdown notes for every DSA topic
+- 💻 JavaScript implementations with documented examples
+- 📈 Time and space complexity analysis for algorithms
+- 🔄 Continuous updates following a weekly learning roadmap
+- 🚀 Built while following the GeeksforGeeks DSA Using JavaScript course
+- 📂 Organized repository structure with topic-wise documentation
