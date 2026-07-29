@@ -11,6 +11,7 @@
 - Asymptotic Notations
 - Big O Notation
 - Big Omega Notation
+- Big Theta Notation
 
 ## Files
 
@@ -27,6 +28,8 @@
 | [BigONotation.js](./BigONotation.js)                 | JavaScript examples demonstrating common Big O complexities     |
 | [BigOmegaNotation.md](./BigOmegaNotation.md)         | Introduction to Big Omega Notation                              |
 | [BigOmegaNotation.js](./BigOmegaNotation.js)         | JavaScript examples demonstrating Big Omega Notation            |
+| [BigThetaNotation.md](./BigThetaNotation.md)         | Introduction to Big Theta Notation                              |
+| [BigThetaNotation.js](./BigThetaNotation.js)         | JavaScript examplws demonstrating Big Theta Notation            |
 
 ## Key Learnings
 
@@ -39,6 +42,9 @@
 - Understanding the fundamentals of Big O notation
 - Understanding the fundamentals of Big Omega notation
 - Difference between the upper bound (Big O) and lower bound (Big Omega) of algorithm complexity.
+- Understanding the fundamentals of Big Theta notation.
+- Difference between Big O, Big Omega and Big Theta.
+- How Big Theta represents the exact bound of algorithm complexity.
 
 ## Status
 
@@ -50,4 +56,5 @@
 - ✅ Asymptotic Notations
 - ✅ Big O Notation
 - ✅ Big Omege Notation
-- ⏳ Big Theta Notation (Next)
+- ✅ Big Theta Notation
+- ⏳ Analysis of Common Loops (Next)
