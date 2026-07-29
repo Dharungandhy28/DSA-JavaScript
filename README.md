@@ -39,6 +39,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - Asymptotic Notations
 - Big O Notations
 - Big Omega Notation
+- Big Theta Notation
 
 ---
 
@@ -54,7 +55,7 @@ A structured repository documenting my journey of learning **Data Structures and
 
 ## 🚀 Current Focus
 
-- Big Theta Notation
+- Analysis of Common Loop
 
 ---
 
@@ -68,7 +69,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - ✅ Asymptotic Analysis
 - ✅ Big O Notation
 - ✅ Big Omega Notation
-- ⏳ Big Theta Notation
+- ✅ Big Theta Notation
 - ⏳ Loop Analysis
 - ⏳ Recursion
 - ⏳ Space Complexity
