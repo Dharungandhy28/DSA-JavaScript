@@ -12,6 +12,7 @@
 - Big O Notation
 - Big Omega Notation
 - Big Theta Notation
+- Loop Analysis
 
 ## Files
 
@@ -29,7 +30,9 @@
 | [BigOmegaNotation.md](./BigOmegaNotation.md)         | Introduction to Big Omega Notation                              |
 | [BigOmegaNotation.js](./BigOmegaNotation.js)         | JavaScript examples demonstrating Big Omega Notation            |
 | [BigThetaNotation.md](./BigThetaNotation.md)         | Introduction to Big Theta Notation                              |
-| [BigThetaNotation.js](./BigThetaNotation.js)         | JavaScript examplws demonstrating Big Theta Notation            |
+| [BigThetaNotation.js](./BigThetaNotation.js)         | JavaScript examples demonstrating Big Theta Notation            |
+| [LoopAnalysis.md](./LoopAnalysis.md)                 | Analysis of common loop structure and Time Complexity           |
+| [LoopAnalysis.js](./LoopAnalysis.js)                 | JavaScript examples demonstrating loop complexity               |
 
 ## Key Learnings
 
@@ -45,6 +48,9 @@
 - Understanding the fundamentals of Big Theta notation.
 - Difference between Big O, Big Omega and Big Theta.
 - How Big Theta represents the exact bound of algorithm complexity.
+- Analysis of time complexity of common loop structures
+- Understand constant, linear, quadratic, logarithmic, and log-log loop patterns
+- Analyze consecutive loops using asymptotic notation
 
 ## Status
 
@@ -57,4 +63,5 @@
 - ✅ Big O Notation
 - ✅ Big Omege Notation
 - ✅ Big Theta Notation
-- ⏳ Analysis of Common Loops (Next)
+- ✅ Analysis of Common Loops (Next)
+- ⏳ Analysis of Recursion (Introduction) in JS
