@@ -57,7 +57,6 @@ A structured repository documenting my journey of learning **Data Structures and
 
 Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 
-- ⏳ Loop Analysis
 - ⏳ Recursion Analysis
 - ⏳ Recursion Tree Method
 - ⏳ Recurrence Relations
@@ -76,7 +75,7 @@ Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 - ✅ Big O Notation
 - ✅ Big Omega Notation
 - ✅ Big Theta Notation
-- ⏳ Loop Analysis
+- ✅ Loop Analysis
 - ⏳ Recursion Analysis
 - ⏳ Recursion Tree Method
 - ⏳ Recurrence Relations
