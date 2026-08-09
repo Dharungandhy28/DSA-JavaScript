@@ -14,28 +14,32 @@
 - Big Theta Notation
 - Loop Analysis
 - Introduction to Recursion Analysis
+- Recursion Tree Method and Examples
+- Upper Bound using Recursion Tree Method
 
 ## Files
 
-| File                                                 | Description                                                             |
-| ---------------------------------------------------- | ----------------------------------------------------------------------- |
-| [dsaintro.md](./dsaintro.md)                         | Introduction to DSA                                                     |
-| [analysis.md](./analysis.md)                         | Algorithm analysis concepts                                             |
-| [growthorder.md](./growthorder.md)                   | Order of growth notes                                                   |
-| [AsymptoticAnalysis.md](./AsymptoticAnalysis.md)     | Introduction to Asymptotic Analysis                                     |
-| [Naturalnum.js](./Naturalnum.js)                     | Sum of the first _n_ natural numbers using different approaches         |
-| [BestAverageWorstcase.js](./BestAverageWorstcase.js) | Examples demonstrating best, average, and worst-case analysis           |
-| [asymptoticnotation.md](./asymptoticnotation.md)     | Introduction to Asymptotic Notations                                    |
-| [BigONotation.md](./BigONotation.md)                 | Introduction to Big O Notation                                          |
-| [BigONotation.js](./BigONotation.js)                 | JavaScript examples demonstrating common Big O complexities             |
-| [BigOmegaNotation.md](./BigOmegaNotation.md)         | Introduction to Big Omega Notation                                      |
-| [BigOmegaNotation.js](./BigOmegaNotation.js)         | JavaScript examples demonstrating Big Omega Notation                    |
-| [BigThetaNotation.md](./BigThetaNotation.md)         | Introduction to Big Theta Notation                                      |
-| [BigThetaNotation.js](./BigThetaNotation.js)         | JavaScript examples demonstrating Big Theta Notation                    |
-| [LoopAnalysis.md](./LoopAnalysis.md)                 | Analysis of common loop structure and Time Complexity                   |
-| [LoopAnalysis.js](./LoopAnalysis.js)                 | JavaScript examples demonstrating loop complexity                       |
-| [RecursionAnalysis.md](./RecursionAnalysis.md)       | Introduction to analyzing recursive algorithms and recurrence relations |
-| [RecursionAnalysis.js](./RecursionAnalysis.js)       | JavaScript example demonstrating recursive complexity analysis          |
+| File                                                  | Description                                                             |
+| ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| [dsaintro.md](./dsaintro.md)                          | Introduction to DSA                                                     |
+| [analysis.md](./analysis.md)                          | Algorithm analysis concepts                                             |
+| [growthorder.md](./growthorder.md)                    | Order of growth notes                                                   |
+| [AsymptoticAnalysis.md](./AsymptoticAnalysis.md)      | Introduction to Asymptotic Analysis                                     |
+| [Naturalnum.js](./Naturalnum.js)                      | Sum of the first _n_ natural numbers using different approaches         |
+| [BestAverageWorstcase.js](./BestAverageWorstcase.js)  | Examples demonstrating best, average, and worst-case analysis           |
+| [asymptoticnotation.md](./asymptoticnotation.md)      | Introduction to Asymptotic Notations                                    |
+| [BigONotation.md](./BigONotation.md)                  | Introduction to Big O Notation                                          |
+| [BigONotation.js](./BigONotation.js)                  | JavaScript examples demonstrating common Big O complexities             |
+| [BigOmegaNotation.md](./BigOmegaNotation.md)          | Introduction to Big Omega Notation                                      |
+| [BigOmegaNotation.js](./BigOmegaNotation.js)          | JavaScript examples demonstrating Big Omega Notation                    |
+| [BigThetaNotation.md](./BigThetaNotation.md)          | Introduction to Big Theta Notation                                      |
+| [BigThetaNotation.js](./BigThetaNotation.js)          | JavaScript examples demonstrating Big Theta Notation                    |
+| [LoopAnalysis.md](./LoopAnalysis.md)                  | Analysis of common loop structure and Time Complexity                   |
+| [LoopAnalysis.js](./LoopAnalysis.js)                  | JavaScript examples demonstrating loop complexity                       |
+| [RecursionAnalysis.md](./RecursionAnalysis.md)        | Introduction to analyzing recursive algorithms and recurrence relations |
+| [RecursionAnalysis.js](./RecursionAnalysis.js)        | JavaScript example demonstrating recursive complexity analysis          |
+| [RecursionTreeMethod.md](./RecursionTreeMethod.md)    | Introduction to Recursion Tree Method                                   |
+| [RecursionTreeExamples.js](./RecursionTreeExample.js) | JavaScript example demonstrating recursion tree method                  |
 
 ## Key Learnings
 
@@ -58,6 +62,9 @@
 - Form recurrence relations from recursive functions
 - Identify base cases, recursive calls, and additional work
 - Understand common method for solving recurrence relations
+- Learned how recursion trees represent recursive calls and their associated computational cost.
+- Learned how to calculate the cost at each level and determine the total cost of a recursion tree.
+- Learned how recursion trees can be used to analyze recurrence relations and determine asymptotic upper bounds.
 
 ## Status
 
@@ -72,4 +79,5 @@
 - ✅ Big Theta Notation
 - ✅ Analysis of Common Loops
 - ✅ Analysis of Recursion (Introduction) in JS
-- ⏳ Recursion Tree Method (Next)
+- ✅ Recursion Tree Method
+- ⏳ Recurrence Relations (Next)
