@@ -42,6 +42,8 @@ A structured repository documenting my journey of learning **Data Structures and
 - Big Theta Notation
 - Loop Analysis
 - Introduction to Recursion Analysis
+- Recursion Tree Methods and examples
+- upper Bound using Recursion Tree Method
 
 ---
 
@@ -59,7 +61,6 @@ A structured repository documenting my journey of learning **Data Structures and
 
 Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 
-- ⏳ Recursion Tree Method
 - ⏳ Recurrence Relations
 - ⏳ Space Complexity
 
@@ -78,7 +79,7 @@ Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 - ✅ Big Theta Notation
 - ✅ Loop Analysis
 - ✅ Recursion Analysis
-- ⏳ Recursion Tree Method
+- ✅ Recursion Tree Method
 - ⏳ Recurrence Relations
 - ⏳ Space Complexity
 
