@@ -40,6 +40,8 @@ A structured repository documenting my journey of learning **Data Structures and
 - Big O Notations
 - Big Omega Notation
 - Big Theta Notation
+- Loop Analysis
+- Introduction to Recursion Analysis
 
 ---
 
@@ -57,7 +59,6 @@ A structured repository documenting my journey of learning **Data Structures and
 
 Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 
-- ⏳ Recursion Analysis
 - ⏳ Recursion Tree Method
 - ⏳ Recurrence Relations
 - ⏳ Space Complexity
@@ -76,7 +77,7 @@ Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 - ✅ Big Omega Notation
 - ✅ Big Theta Notation
 - ✅ Loop Analysis
-- ⏳ Recursion Analysis
+- ✅ Recursion Analysis
 - ⏳ Recursion Tree Method
 - ⏳ Recurrence Relations
 - ⏳ Space Complexity
