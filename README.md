@@ -44,6 +44,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - Introduction to Recursion Analysis
 - Recursion Tree Methods and examples
 - upper Bound using Recursion Tree Method
+- Recurrence Relations
 
 ---
 
@@ -61,7 +62,6 @@ A structured repository documenting my journey of learning **Data Structures and
 
 Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 
-- ⏳ Recurrence Relations
 - ⏳ Space Complexity
 
 ---
@@ -80,7 +80,7 @@ Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 - ✅ Loop Analysis
 - ✅ Recursion Analysis
 - ✅ Recursion Tree Method
-- ⏳ Recurrence Relations
+- ✅ Recurrence Relations
 - ⏳ Space Complexity
 
 ---
