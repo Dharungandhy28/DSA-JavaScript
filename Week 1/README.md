@@ -16,6 +16,7 @@
 - Introduction to Recursion Analysis
 - Recursion Tree Method and Examples
 - Upper Bound using Recursion Tree Method
+- Recurrence Relations
 
 ## Files
 
@@ -40,6 +41,7 @@
 | [RecursionAnalysis.js](./RecursionAnalysis.js)        | JavaScript example demonstrating recursive complexity analysis          |
 | [RecursionTreeMethod.md](./RecursionTreeMethod.md)    | Introduction to Recursion Tree Method                                   |
 | [RecursionTreeExamples.js](./RecursionTreeExample.js) | JavaScript example demonstrating recursion tree method                  |
+| [RecurrenceRelations.md](./RecurrenceRelations.md)    | Introduction to Recurrence Relations                                    |
 
 ## Key Learnings
 
@@ -65,6 +67,9 @@
 - Learned how recursion trees represent recursive calls and their associated computational cost.
 - Learned how to calculate the cost at each level and determine the total cost of a recursion tree.
 - Learned how recursion trees can be used to analyze recurrence relations and determine asymptotic upper bounds.
+- Understanding how recurrence relations represent recursive algorithms.
+- Learning common recurrence forms and their components.
+- Introduction to methods for solving recurrence relations.
 
 ## Status
 
@@ -80,4 +85,5 @@
 - ✅ Analysis of Common Loops
 - ✅ Analysis of Recursion (Introduction) in JS
 - ✅ Recursion Tree Method
-- ⏳ Recurrence Relations (Next)
+- ✅ Recurrence Relations
+- ⏳ Space & Time Complexity (Next)
