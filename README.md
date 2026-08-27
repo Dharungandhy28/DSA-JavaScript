@@ -45,6 +45,7 @@ A structured repository documenting my journey of learning **Data Structures and
 - Recursion Tree Methods and examples
 - upper Bound using Recursion Tree Method
 - Recurrence Relations
+- Time & Space Complexity
 
 ---
 
@@ -60,9 +61,20 @@ A structured repository documenting my journey of learning **Data Structures and
 
 ## 🚀 Current Focus
 
-Completing the remaining **Week 1 – Analysis of Algorithms** topics:
+Completing the remaining **Week 1 – Mathematics** topics:
 
-- ⏳ Space Complexity
+- ⏳ Count Digits
+- ⏳ Check if a number is palindrome
+- ⏳ Factorial of a Number
+- ⏳ Count trailing Zeroes in factorial
+- ⏳ program to Find GCD or HCL or Two numbers
+- ⏳ Program to Find LCM of two numbers
+- ⏳ Program for Prime Number Check
+- ⏳ Prime Factors of a Number
+- ⏳ All Divisors of a Number
+- ⏳ Sieve of Eratosthenes
+- ⏳ Power Function Implementation
+- ⏳ JavaScript Program to compute iterative power of a number
 
 ---
 
@@ -81,7 +93,13 @@ Completing the remaining **Week 1 – Analysis of Algorithms** topics:
 - ✅ Recursion Analysis
 - ✅ Recursion Tree Method
 - ✅ Recurrence Relations
-- ⏳ Space Complexity
+- ✅ Space Complexity
+- ⏳ Mathematics
+- ⏳ Bit Magic
+
+### Week 2
+
+- ⏳ Pending
 
 ---
 
