@@ -17,6 +17,7 @@
 - Recursion Tree Method and Examples
 - Upper Bound using Recursion Tree Method
 - Recurrence Relations
+- Time & Space Complexity
 
 ## Files
 
@@ -42,6 +43,7 @@
 | [RecursionTreeMethod.md](./RecursionTreeMethod.md)    | Introduction to Recursion Tree Method                                   |
 | [RecursionTreeExamples.js](./RecursionTreeExample.js) | JavaScript example demonstrating recursion tree method                  |
 | [RecurrenceRelations.md](./RecurrenceRelations.md)    | Introduction to Recurrence Relations                                    |
+| [SpaceComplexity.md](SpaceComplexity.md)              | Time and Space Complexity Analysis                                      |
 
 ## Key Learnings
 
@@ -70,6 +72,8 @@
 - Understanding how recurrence relations represent recursive algorithms.
 - Learning common recurrence forms and their components.
 - Introduction to methods for solving recurrence relations.
+- Understand the difference between total space complexity and auxiliary space.
+- Analyze how arrays, data structures, and recursion stacks affect space complexity.
 
 ## Status
 
@@ -86,4 +90,9 @@
 - ✅ Analysis of Recursion (Introduction) in JS
 - ✅ Recursion Tree Method
 - ✅ Recurrence Relations
-- ⏳ Space & Time Complexity (Next)
+- ✅ Space & Time Complexity (Next)
+
+## Next
+
+- ⏳ Mathematics
+- ⏳ Bit Magic
